@@ -22,7 +22,7 @@ Creational Pattern:
 
 Use Builder Pattern for constructing tasks
 
-OOP:
+OOPS:
 
 Encapsulate task data and methods in a class
 
